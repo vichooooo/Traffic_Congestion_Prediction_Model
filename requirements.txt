@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+streamlit
+matplotlib
+seaborn
+notebook
+xgboost
+catboost
+mlflow
+dvcflask
+gunicorn
+python-dotenv
+notebook
+jupyter
